@@ -1,9 +1,9 @@
 # lab-5
 # latihan 1
 
-[tugas](latihan1)
+<img src="D:\tugasheru9\tugas9\foto\latihan1.png">
 code :
-[tugas](latihan2)
+<img src="D:\tugasheru9\tugas9\foto\latihan2.png">
  Penjelasan :
 •	a = [1, 3, 5, 7, 9] list A dengan 5 elemen
  Akses list
@@ -22,10 +22,10 @@ code :
 [output](Output1)
 
 # Tugas praktikum
-[tugas](tugaspraktikum4)
+<img src="D:\tugasheru9\tugas9\foto\tugaspraktikum4.png">
 Code :
-[code](code)
-[code](code1)
+<img src="D:\tugasheru9\tugas9\foto\code.png">
+<img src="D:\tugasheru9\tugas9\foto\code1.png">
 
  Penjelasan :
 •	data = [] ,membuat list kosong yang nanti akan di isi
@@ -42,7 +42,7 @@ Code :
 
 # Lab 5
 # Tugas Praktikum 5
-[tugas][tugaspraktikum5]
+<img src="D:\tugasheru9\tugas9\foto\tugaspraktikum5.png">
 
 Penjelasan:
 • data={} untuk menampung list dengan format dictionary
@@ -97,18 +97,18 @@ Hapus data
 
 Output:
 Tambah data
-[output](output2)
+<img src="D:\tugasheru9\tugas9\foto\output2.png">
 Ubah data
-[output](output3)
+<img src="D:\tugasheru9\tugas9\foto\output3.png">
 Lihat data
-[output](output4)
+<img src="D:\tugasheru9\tugas9\foto\output4.png">
 Mencari data
-[output](output5)
+<img src="D:\tugasheru9\tugas9\foto\output5.png">
 Hapus data
-[output](output6)
+<img src="D:\tugasheru9\tugas9\foto\output6.png">
 
 Flowchart:
-[flowchart]:(flowchart2)
+[flowchart](flowchart2)
 
 
 
