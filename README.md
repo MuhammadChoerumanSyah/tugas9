@@ -1,9 +1,9 @@
 ### lab-5
 ## latihan 1
-
-<foto/latihan1.png>
-code :
-<foto/latihan2.png>
+[latihan1]:
+(foto/latihan1.png)
+[code]:
+(foto/latihan2.png)
  Penjelasan :
 •	a = [1, 3, 5, 7, 9] list A dengan 5 elemen
  Akses list
@@ -18,14 +18,14 @@ code :
 •	b.append(‘halo) menambah list dengan nilai string
 •	b.extend([10, 20, 30]) menambah list B dengan 3 nilai
 •	x = a + b menggabungkan list B dengan list A
- Output :
-(foto/
+[Output]:
+(foto/fotocode.png)
 
-# Tugas praktikum
+# [Tugas praktikum]
+[tugas4]:
 (foto/tugaspraktikum4.png)
-Code :
-<foto/code.png>
-<foto/code1.png>
+[Code]:
+(foto/code.png)(foto/code1.png)
 
  Penjelasan :
 •	data = [] ,membuat list kosong yang nanti akan di isi
@@ -37,12 +37,14 @@ Code :
  
 
 
- Flowchart:
-[flowchart](flowchart1)
+ 
+[flowchart]:
+(flowchart1)
 
 # Lab 5
 # Tugas Praktikum 5
-<foto/tugaspraktikum5.png>
+[tugas5]:
+(foto/tugaspraktikum5.png)
 
 Penjelasan:
 • data={} untuk menampung list dengan format dictionary
@@ -96,19 +98,19 @@ Hapus data
 • else:print("'{} tidak ditemukan.".format(nama)) jika data yang kita akan input salah/tidak ditemukan maka akan tercetak 'nama tidak ditemukan'
 
 Output:
-Tambah data
-<foto/output2.png>
-Ubah data
-<foto\output3.png>
-Lihat data
-<foto\output4.png>
-Mencari data
-<foto\output5.png>
-Hapus data
-<foto\output6.png>
+[Tambah data]:
+(foto/output2.png)
+[Ubah data]:
+(foto\output3.png)
+[Lihat data]:
+(foto\output4.png)
+[Mencari data]:
+(foto\output5.png)
+[Hapus data]:
+(foto\output6.png)
 
-Flowchart:
-[flowchart](flowchart2)
+[Flowchart]:
+(flowchart2)
 
 
 
