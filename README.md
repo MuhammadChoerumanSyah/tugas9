@@ -1,9 +1,9 @@
 ### lab-5
 ## latihan 1
-[latihan1]:
-(foto/latihan1.png)
-[code]:
-(foto/latihan2.png)
+
+![tugas1](foto/latihan1.png)
+code:
+![tugas2](foto/latihan2.png)
  Penjelasan :
 •	a = [1, 3, 5, 7, 9] list A dengan 5 elemen
  Akses list
@@ -18,14 +18,14 @@
 •	b.append(‘halo) menambah list dengan nilai string
 •	b.extend([10, 20, 30]) menambah list B dengan 3 nilai
 •	x = a + b menggabungkan list B dengan list A
-[Output]:
-(foto/fotocode.png)
+Output:
+![output1](foto/fotocode.png)
 
 # [Tugas praktikum]
-[tugas4]:
-(foto/tugaspraktikum4.png)
-[Code]:
-(foto/code.png)(foto/code1.png)
+![tugas4](foto/tugaspraktikum4.png)
+Code:
+![code](foto/code.png)
+![code1](foto/code1.png)
 
  Penjelasan :
 •	data = [] ,membuat list kosong yang nanti akan di isi
@@ -34,17 +34,12 @@
 •	nilai_akhir = (nilai_tugas)*30/100 + (nilai_uts)*35/100 + (nilai_uas)*35/100 Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
 •	data.append ([nama, nim, nilai_tugas, nilai_uts, nilai_uas, int(nilai_akhir)]) Memasukkan variable input kedalam list data 
 •	ulangi = (input(‘tambah data(y/t?)’)) ketika memilih ‘t’ if ulangi ==’t’: maka mencetak hasil.
- 
-
-
- 
-[flowchart]:
-(flowchart1)
+flowchart:
+![flowchart](flowchart1)
 
 # Lab 5
 # Tugas Praktikum 5
-[tugas5]:
-(foto/tugaspraktikum5.png)
+![tugas5](foto/tugaspraktikum5.png)
 
 Penjelasan:
 • data={} untuk menampung list dengan format dictionary
@@ -98,19 +93,19 @@ Hapus data
 • else:print("'{} tidak ditemukan.".format(nama)) jika data yang kita akan input salah/tidak ditemukan maka akan tercetak 'nama tidak ditemukan'
 
 Output:
-[Tambah data]:
-(foto/output2.png)
-[Ubah data]:
-(foto\output3.png)
-[Lihat data]:
-(foto\output4.png)
-[Mencari data]:
-(foto\output5.png)
-[Hapus data]:
-(foto\output6.png)
+Tambah data:
+![output2](foto/output2.png)
+Ubah data:
+![output3](foto\output3.png)
+Lihat data:
+![output4](foto\output4.png)
+Mencari data:
+![output5](foto\output5.png)
+Hapus data:
+![output6](foto\output6.png)
 
-[Flowchart]:
-(flowchart2)
+Flowchart:
+![flowchart2](flowchart2)
 
 
 
