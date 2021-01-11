@@ -1,9 +1,9 @@
 # lab-5
 # latihan 1
 
-<img src="D:\tugasheru9\tugas9\foto\latihan1.png">
+(foto/latihan1.png)
 code :
-<img src="D:\tugasheru9\tugas9\foto\latihan2.png">
+(foto/latihan2.png)
  Penjelasan :
 •	a = [1, 3, 5, 7, 9] list A dengan 5 elemen
  Akses list
@@ -19,13 +19,13 @@ code :
 •	b.extend([10, 20, 30]) menambah list B dengan 3 nilai
 •	x = a + b menggabungkan list B dengan list A
  Output :
-[output](Output1)
+(foto/Output1.png)
 
 # Tugas praktikum
-<img src="D:\tugasheru9\tugas9\foto\tugaspraktikum4.png">
+(foto/tugaspraktikum4.png)
 Code :
-<img src="D:\tugasheru9\tugas9\foto\code.png">
-<img src="D:\tugasheru9\tugas9\foto\code1.png">
+(foto/code.png)
+(foto/code1.png)
 
  Penjelasan :
 •	data = [] ,membuat list kosong yang nanti akan di isi
@@ -42,7 +42,7 @@ Code :
 
 # Lab 5
 # Tugas Praktikum 5
-<img src="D:\tugasheru9\tugas9\foto\tugaspraktikum5.png">
+(foto/tugaspraktikum5.png)
 
 Penjelasan:
 • data={} untuk menampung list dengan format dictionary
@@ -97,15 +97,15 @@ Hapus data
 
 Output:
 Tambah data
-<img src="D:\tugasheru9\tugas9\foto\output2.png">
+(foto/output2.png)
 Ubah data
-<img src="D:\tugasheru9\tugas9\foto\output3.png">
+(foto\output3.png)
 Lihat data
-<img src="D:\tugasheru9\tugas9\foto\output4.png">
+(foto\output4.png)
 Mencari data
-<img src="D:\tugasheru9\tugas9\foto\output5.png">
+(foto\output5.png)
 Hapus data
-<img src="D:\tugasheru9\tugas9\foto\output6.png">
+(foto\output6.png)
 
 Flowchart:
 [flowchart](flowchart2)
