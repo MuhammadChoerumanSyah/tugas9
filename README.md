@@ -19,10 +19,10 @@ code :
 •	b.extend([10, 20, 30]) menambah list B dengan 3 nilai
 •	x = a + b menggabungkan list B dengan list A
  Output :
-<foto/Output1.png>
+(foto/
 
 # Tugas praktikum
-<foto/tugaspraktikum4.png>
+(foto/tugaspraktikum4.png)
 Code :
 <foto/code.png>
 <foto/code1.png>
