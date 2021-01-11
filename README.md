@@ -95,12 +95,16 @@ Hapus data
 Output:
 Tambah data:
 ![output2](foto/output2.png)
+
 Ubah data:
 ![output3](foto\output3.png)
+
 Lihat data:
 ![output4](foto\output4.png)
+
 Mencari data:
 ![output5](foto\output5.png)
+
 Hapus data:
 ![output6](foto\output6.png)
 
